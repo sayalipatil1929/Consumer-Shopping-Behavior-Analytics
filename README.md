@@ -8,3 +8,12 @@ This project focuses on analyzing customer shopping patterns to help a retail bu
 
 ![Workflow](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/Workflow.png)
 ### The final deliverables provide a comprehensive understanding of customer preferences, loyalty behavior, and sales drivers — enabling businesses to optimize promotions, personalize engagement, and improve decision-making.
+---
+# 🛠️ 1.Data Preparation & Transformation
+* Loaded and inspected the dataset to understand data types, missing values, and structure before processing.
+* Cleaned and standardized categorical fields (such as Gender, Category, Payment Method, Size, and Location) to ensure consistency in analysis.
+* Handled missing and duplicate records to improve data quality and ensure accurate insights.
+* Converted relevant columns to correct data types (numeric formatting for purchase amount and categorical encoding where needed).
+* Created additional derived fields to support analysis, such as customer segmentation and grouping for Power BI visuals.
+- You can view the complete data cleaning and transformation steps here:
+👉 **[Open Notebook](https://github.com/sayalipatil1929/Consumer-Shopping-Behavior-Analytics/blob/main/customer_shopping_behavior_data_prep.ipynb)**
